@@ -436,7 +436,7 @@ public class frame1 extends javax.swing.JFrame {
                 Atacar1.setEnabled(false);
                 Atacar1.setVisible(false);
   }
-            
+           
             
     }//GEN-LAST:event_Atacar1MousePressed
 
